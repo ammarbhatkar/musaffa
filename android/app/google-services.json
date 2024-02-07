@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697613747829",
+    "project_id": "musaffa-1",
+    "storage_bucket": "musaffa-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697613747829:android:7eaf5f18f66c90016d5a3c",
+        "android_client_info": {
+          "package_name": "com.example.musaffa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPWYcbUYEQwrtmnxUc9W8KQ9wZlvd4pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
